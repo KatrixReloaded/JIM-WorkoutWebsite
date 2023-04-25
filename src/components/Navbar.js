@@ -12,7 +12,6 @@ const Navbar = () => (
     <Stack
       direction="row"
       gap="40px"
-      fontFamily="Alegreya"
       fontSize="24px"
       alignItems="flex-end"
     >
